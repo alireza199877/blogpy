@@ -1,0 +1,1 @@
+"# blogpy"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/alireza199877/blogpy.gitgit push -u origin main
